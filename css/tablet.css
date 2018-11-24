@@ -1,0 +1,15 @@
+div.left {
+    margin-left: 0;
+}
+
+div.center {
+    width: 60%;
+}
+
+div.right {
+    margin-right: 0;
+}
+
+div.profile img.profile {
+    top: 20%;
+}
